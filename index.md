@@ -46,7 +46,7 @@
 
    * Build agent layers: Donors, Ministries, NGOs, Clinics, Patients
    * Model M\&E agents as sensitive feedback loops
-3. **Collide** (`ukusoma`)
+3. **Collide** (`ukukona`)
 
    * Inject event: Elon Musk’s DOGE tweet → Crypto shock → USAID budget collapse
    * Explore emergent chaos: layoffs, treatment disruptions, national narratives
