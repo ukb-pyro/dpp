@@ -34,7 +34,7 @@
 
 **"Agentic Collapse: Simulating the Ripple Effects of Foreign Funding Shocks on Uganda's Health System"**
 
-> *A recursive digital twin using AgentSociety to observe, forecast, and propose stabilization mechanisms.*
+> *A recursive digital twin using [AgentSociety](https://arxiv.org/abs/2502.08691) to observe, forecast, and propose stabilization mechanisms.*
 
 **Chapters (Modeled as Ukubona’s Pentad):**
 
